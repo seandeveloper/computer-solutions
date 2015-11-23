@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Hardware Repair",
+    "description": "Scabbards whine with treasure! The pathway meets rumour like a real moon. Twisted assimilation.",
+    "image": "computer-icon.png"
+  },
+  {
+    "id": 2,
+    "name": "Virus Removal",
+    "description": "Scabbards whine with treasure! The pathway meets rumour like a real moon. Twisted assimilation.",
+    "image": "computer-icon.png"
+  },
+  {
+    "id": 3,
+    "name": "System Tuneup",
+    "description": "Scabbards whine with treasure! The pathway meets rumour like a real moon. Twisted assimilation.",
+    "image": "computer-icon.png"
+  }
+]
